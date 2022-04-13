@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "This is just for test.md",
+            "file": "能力的梯度.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "This is just for test.md",
+                "file": "能力的梯度.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,11 +88,10 @@
   },
   "active": "7acb5e24ea34cf6e",
   "lastOpenFiles": [
+    "能力的梯度.md",
     "This is just for test.md",
-    "index.md",
-    "能力的梯度.md",
-    "能力的梯度.md",
     "杠杆效应.md",
+    "index.md",
     "docs/assets/wecom-temp-a9e5e7fac0485245c78adf21f889b043.png"
   ]
 }
